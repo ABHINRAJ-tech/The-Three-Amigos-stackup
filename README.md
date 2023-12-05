@@ -1,6 +1,8 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 EVENTZONE
-Long Description about project. This project do that. This project is awesome...
+eventzone is an event listing platform 
+it can be used show the upcoming events 
+also an member can add event to this web application
 ## Team members
 1. Akshaya Vijayan https://github.com/Akshaya-vijayan
 2. Fathima k https://github.com/Fathima12-k
