@@ -2,7 +2,11 @@
 EVENTZONE
 
 eventzone is an event listing platform 
+
+
 it can be used show the upcoming events 
+
+
 also an member can add event to this web application
 ## Team members
 1. Akshaya Vijayan https://github.com/Akshaya-vijayan
